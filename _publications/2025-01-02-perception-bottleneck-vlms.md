@@ -2,7 +2,8 @@
 title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-02-perception-bottleneck-vlmsexcerpt: 'First-author paper on the perception bottleneck of VLMs for chart understanding.'
+permalink: /publication/2025-01-02-perception-bottleneck-vlms
+excerpt: 'First-author paper on the perception bottleneck of VLMs for chart understanding.'
 date: 2025-01-02
 venue: 'Arxiv'
 paperurl: ''
